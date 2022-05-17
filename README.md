@@ -1,3 +1,3 @@
 # C-Cpp exercices
 
-### most common exercices and solution 
+### most common exercices and solutions
