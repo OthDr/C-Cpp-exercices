@@ -1,9 +1,5 @@
 /*
-Prof: Raouf Ouanis Lakehal AYAT
--------------------------------
-Nom:Derrar
-Prenom:Othmane
-Groupe:G02 sg-1
+
 
             THIRD HOME WORK:COMPLETE tree test
             ---------------------------------
