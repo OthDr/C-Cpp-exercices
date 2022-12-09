@@ -71,7 +71,7 @@ int main()
 {
 	node*myBT;
 //myBT=insert(myBT,5)
-cout<<"Prof: Raouf Ouanis Lakehal AYAT\n------------------------------------\nNom:Derrar\nPrenom:Othmane\nGroupe:G02 sg-1\n\n\t\tTHIRD HOME WORK:COMPLETE tree test";	
+cout<<"\n\n\t\tTHIRD HOME WORK:COMPLETE tree test";	
 	
 getchar();
 return 0;
