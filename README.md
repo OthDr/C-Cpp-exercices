@@ -1,4 +1,4 @@
-# C-Cpp exercices
+# C C++ exercices
 
 ### most common exercices and solutions
 ### DataStructures and Algorithms
