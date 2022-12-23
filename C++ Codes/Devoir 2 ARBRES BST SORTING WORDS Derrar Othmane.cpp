@@ -1,10 +1,4 @@
 
-/* Nom:Derrar
-   Prénom:Othmane
-   groupe:G02 sg1
-                                Deuxième Devoir D'ASD "ARBRES"
-								
-*/ 
 
 #include <iostream>
 #include <string.h>
